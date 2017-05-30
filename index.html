@@ -230,6 +230,7 @@ Nam et auctor elit  luctus.</p>
       function initMap() {
         var uluru = {lat: 48.152542, lng: 11.564288};
         var map = new google.maps.Map(document.getElementById('map'), {
+          draggable: false,
           scrollwheel: false,
           zoom: 17,
           center: uluru,
