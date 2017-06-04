@@ -380,6 +380,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   text-align: center;
 
   color: #59595b;
+  transition: all 0.3s ease 0s;
 }
 
 .but-small:hover{
@@ -451,6 +452,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   text-align: center;
   padding-bottom: 10px;
   color: white;
+  transition: all 0.3s ease 0s;
 }
 
 .but-large:hover{
